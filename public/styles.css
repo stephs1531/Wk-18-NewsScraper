@@ -1,0 +1,20 @@
+.jumbotron {
+    text-align: center;
+    background-image: url(http://www.eq-events.com/wp-content/uploads/2018/12/EQ_Events-page-header-Tamra-Smith.jpg);
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-content: center;
+    text-shadow: 2px 2px 5px #000000;
+}
+
+.card.horizontal {
+    text-align: left;
+    display: inline-block!important;
+    width: 100%!important;
+}
+
+.text-container {
+    flex-direction: column;
+}
